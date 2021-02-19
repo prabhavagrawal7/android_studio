@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
     public void receiveNow(View view) {
         Toast.makeText(this, "This is receiving data from app...", Toast.LENGTH_SHORT).show();
 

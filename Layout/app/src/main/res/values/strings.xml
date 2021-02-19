@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="buttona">A1</string>
+    <string name="button1">A2</string>
+    <string name="button2">A3</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
